@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords of His Majesties Privie-Councell in Scotland; and commissioners for conserving the articles of the treaty: for the information of His Majesties good subjects of this kingdom. Together with a treacherous and damnable plot of the Irish, English, and Scottish papists, begun to be discovered by the unexpected apprehending of the Earl of Antrim coming from York; partly by letters which were found in the said Earls pockets, and partly by the depositions of a servant of his, who was hanged at Carrick-Fergus.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92642</idno>
+            <idno type="STC">Wing S1491</idno>
+            <idno type="STC">Thomason E56_9</idno>
+            <idno type="STC">ESTC R1099</idno>
+            <idno type="EEBO-CITATION">99858912</idno>
+            <idno type="PROQUEST">99858912</idno>
+            <idno type="VID">110972</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92642)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110972)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 10:E56[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords of His Majesties Privie-Councell in Scotland; and commissioners for conserving the articles of the treaty: for the information of His Majesties good subjects of this kingdom. Together with a treacherous and damnable plot of the Irish, English, and Scottish papists, begun to be discovered by the unexpected apprehending of the Earl of Antrim coming from York; partly by letters which were found in the said Earls pockets, and partly by the depositions of a servant of his, who was hanged at Carrick-Fergus.</title>
+                  <author>Scotland. Privy Council.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Edinburgh, Printed by Evan Tyler, printer to the Kings most Excellent Majesty ; and now re-printed at London for Edward Husbands,</publisher>
+                  <pubPlace>[London]</pubPlace>
+                  <date>27 Junii, 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Originally published: Edinburgh : Printed by Evan Tyler, 1643?.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Antrim, Randal MacDonnell, --  Earl of, 1609-1683.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Sampled and proofread</change>
+         <change>
+            <date>2014-01</date>
+            <label>Kate Allen</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="errata">
+            <pb facs="tcp:110972:1"/>
+            <head>Errata.</head>
+            <p>IN the Epiſtle to the Reader, the firſt line in the ſecond page, for ut, read but. Of the Booke p. 1. line, 17. for offered, r. of or to, p 9. l. 9. r. <hi>Objection,</hi> the word, p. 12. l. 9. for ſo, ſee, l. 10. for <hi>Meldad</hi> r. <hi>Medad,</hi> p. 16.16. for godly r. God by, p. 18 l 34. for ſpeciall r. ſpiri<g ref="char:EOLhyphen"/>tuall, p. 19 l. 3, 4, 5, 6, 7. read thus: Know, no godly man can be guilty of the body and blood of Chriſt, for no man in the ſtate of grace and ſalvation, as every godly man is, can be guilty of the body and blood of Chriſt; yet they hold that Gods people ſeeing Chriſt crucified by wicked men at the Sacrament, are guilty of the body and blood of Chriſt. p. 21. l. 3. r. had laid: amongſt them were, p. 22 l. 12. for ſin'd r. ſide, l. 19. for the r. their, p. 24. l. r. for the r. their, p. 25 l 29. for the r. their, p. 30. l. 4. for or r. our, p. 31. l. 10. for wages r. wayes, p. 34. l. 13. for diſciples r. diſcipline, p. 35. l. 37. dele of, p. 37. l. 24. for inferring r. inforcing, l 25. for praiſing r. practiſing, p. 38. l. 9. for performing r. preferring, p. 39. l. 25 for Idolaters r. Idolatrous, p. 41. l. 4. dele or, p. 42. l. 40. for perform r. profeſſe, p. 43. l. 1. for forth r. foot, p. 44. l. 2 for theſe r. the, p 45. l. 12. for prophaners r. prophane ones, p. 48. l. 2. for ſanctifie r. ſanctified, l. 15. for bones r. bands, p. 52. l. 15. for the r. their. In the Poſt<g ref="char:EOLhyphen"/>ſcript, p. 1. l. 12. for their r. the, l. 26. r. advantage at.</p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:110972:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF <hi>The Lords of His Majeſties Privie-Councell in SCOTLAND;</hi> AND Commiſsioners for conſerving the Articles of the Treaty: <hi>For the Information of His</hi> MAJESTIES <hi>good Subjects of this Kingdom.</hi>
+            </p>
+            <p>Together with a Treacherous and damnable PLOT Of the Iriſh, Engliſh, and Scottiſh Papiſts, begun to be diſcovered by the unexpected apprehending of the Earl of <hi>Antrim</hi> coming from York, partly by Letters which were found in the ſaid Earls pockets, and partly by the Depoſitions of a Servant of his, who was hanged at <hi>Carrick-Fergus.</hi>
+            </p>
+            <floatingText type="license" xml:lang="lat" subtype="imprimatur">
+               <body>
+                  <opener>
+                     <dateline>
+                        <date>26. <hi>Iunii:</hi> 1643.</date>
+                     </dateline>
+                  </opener>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>HEN: WALLEY.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>Edinburgh,</hi> Printed by <hi>Evan Tyler,</hi> Printer to the Kings moſt Excellent Majeſty; and now Re-printed at <hi>London</hi> for <hi>Edward Husbands,</hi> 27 Junii, 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:110972:2"/>
+            <pb n="3" facs="tcp:110972:2"/>
+            <head>
+               <hi>A Declaration of the Lords of His Maje<g ref="char:EOLhyphen"/>ſties Privie-Councell in</hi> Scotland.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Lords of His Majeſties moſt Honorable Privy-Coun<g ref="char:EOLhyphen"/>cell, and the Commiſſioners for conſerving of the Peace, according to the great truſt repoſed on them by His Ma<g ref="char:EOLhyphen"/>jeſty and the Eſtates of Par<g ref="char:EOLhyphen"/>liament, whereof they are to make account to God and His Majeſty the next enſuing Par<g ref="char:EOLhyphen"/>liament, Taking to their deepeſt and moſt ſerious con<g ref="char:EOLhyphen"/>ſideration the beſt wayes of preſerving the peace of this Kingdom, That all His Majeſties good and duti<g ref="char:EOLhyphen"/>full Subjects may enjoy their Religion, Liberties, and Laws, which GOD in a ſingular and wonderfull providence in the time of His Majeſties Raign hath vouchſafed them, And of the peace betwixt the two Kingdoms ſo unanimouſly and happily eſtabliſhed in the late Treaty of peace, and in the Parliaments of both Kingdoms, Have faithfully endeavoured by all good means to reduce <hi>IRELAND</hi> to His Maje<g ref="char:EOLhyphen"/>ſties obedience, which through the unnaturall, barba<g ref="char:EOLhyphen"/>rous, and Antichriſtian cruelty of Papiſts, is from a peaceable Kingdom turned into a ſtage of unexampled and unexpreſſible miſeries, to be looked upon as an hor<g ref="char:EOLhyphen"/>rid and dangerous example by this Kingdom, And by their earneſt ſupplications to His Majeſtie, and their
+<pb n="4" facs="tcp:110972:3"/>Declarations to the Parliament of England, but eſpe<g ref="char:EOLhyphen"/>cially by their earneſt deſires for eſtabliſhing Unity of Religion, and Uniformity of Kirk-government, and for disbanding all Papiſts in Arms within their Domi<g ref="char:EOLhyphen"/>nions, and by the humble offer of their meditation to remove the unhappy differences, and quench the fire of a waſting Warre, begun betwixt His Majeſty and His Subjects of England, wherein His Majeſties ſacred Perſon is expoſed to ſo great danger, and ſo many thou<g ref="char:EOLhyphen"/>ſands of His Subjects have already periſhed: But find<g ref="char:EOLhyphen"/>ing to their great grief the ſucceſſe no way anſwerable to their endeavours and expectation, and the trouble of the neighbouring Kingdoms, and the dangers of this Kingdom daily ariſing to a greater height, then they by their care, counſell, and diligence, were able to remeid or obviate, they did reſolve for this and other cauſes, which exerciſe and heavily preſſe the Kingdom at this time, to call a convention of the Eſtates, as the only meane (His Majeſty not thinking fit to hearken unto their motion of calling a Parliament) which might by common counſell, conſent and reſolution, take the beſt courſe for repreſenting yet more ſenſibly theſe manifold evils and dangers, and for over-coming by greater wiſdom the difficulties which were above their power.</p>
+            <p>In the mean while (which they cannot but attribute to the mercifull and marveilous Providence of GOD, and which is a confirmation to them of their reſoluti<g ref="char:EOLhyphen"/>on in calling a convention, and layeth the greater neceſſity upon the Eſtates, to meet the more willingly and frequently) a treacherous and damnable Plot of the Iriſh, Engliſh, and Scottiſh Papiſts, is begun to be diſ<g ref="char:EOLhyphen"/>covered, by the unexpected apprehending of the Earl of <hi>Antrim</hi> coming from York, where he had keeped his
+<pb n="5" facs="tcp:110972:3"/>meetings and correſpondence by Letters, with certaine Popiſh Lords his confederates, and amongſt others, with the Earl of <hi>Nithiſdail</hi> and Vicount of <hi>Aboyne,</hi> Their de<g ref="char:EOLhyphen"/>villiſh deſigns and devices are come to light, &amp; brought to our knowledge, partly by Letters from Ireland, ſhewing the depoſition and confeſſion of a ſervant of the Earle of <hi>Antrims,</hi> and partly by Letters which were found in the Earle his own pockets, all ſent to them from Ireland: His ſervant who was hanged at Carricke-Fergus the <gap reason="blank" extent="1 word">
+                  <desc> _____ </desc>
+               </gap> day of May, deponed (as the Letters beare) before and at the time of his death, that the deſigne was to reconcile the Engliſh and Iriſh in Ireland, that they by their joynt power, having expel<g ref="char:EOLhyphen"/>led the Scots, the Iriſh Forces there might bee ſent a<g ref="char:EOLhyphen"/>gainſt the Parliament of England, to deale with ſome fit inſtrument there, by all their ſtrength to ſurprize the Iſles and the High-Lands, and to depopulate and waſte ſo much of this Kingdome as their power could extend unto, being aſſured of the like dealing in the North, by the Papiſts and their aſſiſtance there, And to have a Ma<g ref="char:EOLhyphen"/>gazine at Carlile for twenty thouſand men, to fall in with an hoſtility upon the ſouth parts of this Kingdom. The Letters ſent from <hi>Nithiſdail</hi> and <hi>Aboyne,</hi> all written and ſubſcribed by their hands to the Earl of <hi>Antrim,</hi> and found with him, although in ſome things covertly writ<g ref="char:EOLhyphen"/>ten, do carry thus much expreſly, that for furtherance of the deſigne &amp; point reſolv'd on, there was aſſiſtance aſſu<g ref="char:EOLhyphen"/>red from the Iles, &amp; from the North, &amp; ſouth of Scot<g ref="char:EOLhyphen"/>land, th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t Ammunition and Arms, without which they thinke their ſervice uſeleſſe, were appointed to be ſent to the North, and other parts of this Kingdom, And that Popiſh Officers were commanded, and had undertaken to go into Scotland; of which we are informed, ſome are already gone to the North, for ſtopping, and diſ<g ref="char:EOLhyphen"/>appointing
+<pb n="6" facs="tcp:110972:4"/>ſo far as may be for the preſent (till the ſame divine providence make a more full diſcovery) the at<g ref="char:EOLhyphen"/>tempts and devices of this unnaturall and bloudy con<g ref="char:EOLhyphen"/>federacie and conjuration. As the Lords of his Maje<g ref="char:EOLhyphen"/>ſties Privy Councell have given order that <hi>Nithiſdail</hi> and <hi>Aboyne</hi> be cited, and criminally purſued of high Treaſon, and have made the ſame as a matter of pub<g ref="char:EOLhyphen"/>lick and moſt high importance knowne to his Majeſtie, and to the Parliament of England; ſo they and the Com<g ref="char:EOLhyphen"/>miſſioners of Peace alſo, for acquitting themſelves in their truſt, and for the ſafety of the Kingdom, do make the ſame publickly known to al his Majeſties good ſub<g ref="char:EOLhyphen"/>jects, that being forewarned of their danger, they may be upon their guards, and prepared againſt forraigne in<g ref="char:EOLhyphen"/>vaſion and inteſtine plots and inſurrection: And eſpeci<g ref="char:EOLhyphen"/>ally, that the Noble men, Commiſſioners of Shires, and Burrows, perceiving greater and more apparent ne<g ref="char:EOLhyphen"/>ceſſity of the approaching convention then they could have wiſhed or expected, May at the day formerly ap<g ref="char:EOLhyphen"/>pointed, meet in ſuch celerity, and with ſuch publicke affection and diſpoſition of heart, as the preſent condi<g ref="char:EOLhyphen"/>tion of affairs doth require, and call for at their hands, and as beſeemeth the lovers of their Religion, King, and Countrey, which are in ſo great danger, from pa<g ref="char:EOLhyphen"/>piſts, Atheiſts, and other degenerated country men, who are no leſſe inraged againſt this Kingdome, even ſince the late Reformation of this Kirke, then were their predeceſſours at the firſt reformation of Religion, when their negotiating was ſo reſtleſſe, and their attempts ſo many, and malicious againſt the work of God in this Land: nor is it to be paſt without obſervation, that while His Majeſty is making a publick Declaration of his in<g ref="char:EOLhyphen"/>tentions to defend and maintaine the Religion, Rights and Liberties of this Kingdom, according to the laws,
+<pb n="7" facs="tcp:110972:4"/>civill and eccleſiaſtick, The Papiſts are conſpiring, plotting, and practiſing againſt the Religion, Rights, and Liberties eſtabliſhed, and againſt the lives of His Majeſties good Subjects; whereby they do really mani<g ref="char:EOLhyphen"/>feſt to the world what the Kings Majeſty againſt His Declarations, and His Subjects againſt their confidence grounded thereupon, may looke for from their ma<g ref="char:EOLhyphen"/>lice and power, if they ſhall continue in Armes, and (which God forbid) if they ſhall prevail in the end. And whereas the Lords of Councel are informed, that the late Act of Councel for publiſhing his Majeſties Decla<g ref="char:EOLhyphen"/>ration is miſtaken by ſundry, as a Declaration of their own judgement, concerning the proceedings of another Kingdom; For preventing of this miſtake, They thinke fit to remember and declare according to the act of Councel in Ianuary laſt, ſhewing that their Lordſhips giving warrant to print any paper comming from His Majeſtie, or Parliament of England, did not import their approbation of the contents thereof: That they did on the firſt of Iune, both remember the famine, &amp; expreſſe their intention in this publication to be farre from taking on them to judge of the proceedings of the Parliament of another Kingdom; but only to thanke his Majeſty for His gracious expreſſions towards the preſervation of the Rights and Liberties of this Kingdome: And ordaines this to be printed and publiſhed at the Market Croſſe of Edinburgh, and all other Burghs within this Kingdom, for the information of his Majeſties Subjects within the ſame.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license">
+            <pb n="8" facs="tcp:110972:5"/>
+            <opener>
+               <dateline>At <hi>Edinburgh</hi> 
+                  <date> the ninth day of <hi>June,</hi> 1643.</date>
+               </dateline>
+            </opener>
+            <p>THe Lords of His Majeſties Privy Councell and Commiſſioners for con<g ref="char:EOLhyphen"/>ſerving the Articles of the Treaty, Or<g ref="char:EOLhyphen"/>daines this following Declaration to bee printed and publiſhed at the market Croſſe of Edinburgh, and other Burghes of this Kingdome, for the information of all Hi<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſties good Subjects within the ſame.</p>
+            <closer>
+               <signed>Arch. Primeroſe. <hi>Cler.</hi> S. <hi>Conſ. &amp; Commiſ.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
